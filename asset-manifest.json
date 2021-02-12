@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/chengpham.github.io/static/css/main.abbb757d.chunk.css",
-    "main.js": "/chengpham.github.io/static/js/main.dd034e22.chunk.js",
-    "main.js.map": "/chengpham.github.io/static/js/main.dd034e22.chunk.js.map",
-    "runtime-main.js": "/chengpham.github.io/static/js/runtime-main.8134f875.js",
-    "runtime-main.js.map": "/chengpham.github.io/static/js/runtime-main.8134f875.js.map",
-    "static/js/2.f060816b.chunk.js": "/chengpham.github.io/static/js/2.f060816b.chunk.js",
-    "static/js/2.f060816b.chunk.js.map": "/chengpham.github.io/static/js/2.f060816b.chunk.js.map",
-    "index.html": "/chengpham.github.io/index.html",
-    "static/css/main.abbb757d.chunk.css.map": "/chengpham.github.io/static/css/main.abbb757d.chunk.css.map",
-    "static/js/2.f060816b.chunk.js.LICENSE.txt": "/chengpham.github.io/static/js/2.f060816b.chunk.js.LICENSE.txt"
+    "main.css": "/portfolio/static/css/main.abbb757d.chunk.css",
+    "main.js": "/portfolio/static/js/main.dd034e22.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.dd034e22.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.8fed2963.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.8fed2963.js.map",
+    "static/js/2.f060816b.chunk.js": "/portfolio/static/js/2.f060816b.chunk.js",
+    "static/js/2.f060816b.chunk.js.map": "/portfolio/static/js/2.f060816b.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.abbb757d.chunk.css.map": "/portfolio/static/css/main.abbb757d.chunk.css.map",
+    "static/js/2.f060816b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f060816b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8134f875.js",
+    "static/js/runtime-main.8fed2963.js",
     "static/js/2.f060816b.chunk.js",
     "static/css/main.abbb757d.chunk.css",
     "static/js/main.dd034e22.chunk.js"
